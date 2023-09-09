@@ -1,6 +1,11 @@
 # True Scanner Android SDK
 True Scanner aka Document Scanner is one of the leading android SDK used around the globe. This SDK is used to scan text images and remove shadow/deshadow a document or book page and produce high quality results. It is a complete tool kit for developing CamScanner like app in just fewdays with high quality results. Any junior android developer can implement it in few super easy steps.
 
+<img src="donate.jpg" width="20%"/>
+
+## Note
+Your single penny may lead to support the project in future. If this project is more beneficial to you then donate this project by clicking the link in bottom
+
  We have divided True Scanner in 4 different components:
 
 ## 1. Document Scanner (Core Component)
