@@ -28,3 +28,12 @@ Feature:
 <a href="https://github.com/farimarwat/Document-Scanner/wiki">
 Documentation
 </a>
+
+## Donate Now
+Your donation will be appreciated. Your donations encourages me to give you more support for free and continue this project.
+
+Click the image to give donation via petreon:
+
+<a href="https://www.patreon.com/farimarwat">
+<img src="patreon.png"/>
+</a>
