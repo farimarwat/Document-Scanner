@@ -14,13 +14,17 @@ Features:
 ## 2. Camera Helper
 This component helps any developer to pop for cameraview containing a rectangle which is used to get cropped image. Just start CameraPreview and get cropped image of both sides (front and back) automatically by the Helper.
 
-## 3. Image Helper
+## 3. Image Helper (in development)
 Image helper is used to edit image, place signature, text or even sign the page document by your finger via drawing a line.
 
-## 4. Pdf Helper
+## 4. Pdf Helper (in development)
 Feature:
 1. Open any pdf document
 2. Convert any image to pdf file
 3. Insert into pdf file
 4. Delete from pdf file
 5. Edit specific page in pdf file and many more
+
+<a href="https://github.com/farimarwat/Document-Scanner/wiki">
+Documentation
+</a>
