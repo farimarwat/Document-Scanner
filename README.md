@@ -8,7 +8,7 @@ Your single penny may lead to support the project in future. If this project is 
 
  We have divided True Scanner in 4 different components:
 
-## 1. [Document Scanner (Core Component)](https://github.com/farimarwat/Document-Scanner/wiki/Document-Scanner)
+## [1. Document Scanner (Core Component)](https://github.com/farimarwat/Document-Scanner/wiki/Document-Scanner)
 Features:
 1. Remove/De shadow any document or page
 2. Enhance the color quality of document or page
@@ -16,10 +16,10 @@ Features:
 4. Black & White copy
 5. Magic Filter / Beautify Document or page
 
-## 2. Camera Helper
+## [2. Camera Helper](https://github.com/farimarwat/Document-Scanner/wiki/Camera-Helper)
 This component helps any developer to pop for cameraview containing a rectangle which is used to get cropped image. Just start CameraPreview and get cropped image of both sides (front and back) automatically by the Helper.
 
-## 3. Image Helper (in development)
+## [3. Image Helper](https://github.com/farimarwat/Document-Scanner/wiki/Image-Helper)
 Image helper is used to edit image, place signature, text or even sign the page document by your finger via drawing a line.
 
 ## 4. Pdf Helper (in development)
