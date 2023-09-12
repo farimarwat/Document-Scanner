@@ -30,9 +30,7 @@ Feature:
 4. Delete from pdf file
 5. Edit specific page in pdf file and many more
 
-<a href="https://github.com/farimarwat/Document-Scanner/wiki">
-Documentation
-</a>
+
 
 ## Donate Now
 Your donation will be appreciated. Your donations encourages me to give you more support for free and continue this project.
