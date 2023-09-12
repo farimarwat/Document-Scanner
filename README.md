@@ -8,7 +8,7 @@ Your single penny may lead to support the project in future. If this project is 
 
  We have divided True Scanner in 4 different components:
 
-## 1. Document Scanner (Core Component)
+## 1. [Document Scanner (Core Component)](https://github.com/farimarwat/Document-Scanner/wiki/Document-Scanner)
 Features:
 1. Remove/De shadow any document or page
 2. Enhance the color quality of document or page
