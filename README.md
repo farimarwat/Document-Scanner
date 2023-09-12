@@ -26,5 +26,5 @@ Feature:
 
 
 ## Important
-This SDK is completely free for personal use and as well as commercial use but a little bit limitation. There will be a water mark on the bottom right of the scaned image. If you want to remove that water mark then email for obtaining a license. (farimarwat@gmail.com)
+This SDK is completely free for personal use and as well as commercial use but with a little bit limitation. There will be a water mark on the bottom right of the scaned image. If you want to remove that water mark then email for obtaining a license. (farimarwat@gmail.com)
 
